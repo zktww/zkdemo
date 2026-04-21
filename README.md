@@ -40,9 +40,11 @@
 | 入口 | 说明 |
 |------|------|
 | [demos/css-length-unit/](demos/css-length-unit/) | CSS 长度单位探索器（暖色编辑风交互页） |
+| [demos/drag-and-drop/](demos/drag-and-drop/) | HTML5 拖拽 API 三合一演示（基础/排序/文件上传） |
 | [demos/presentation/](demos/presentation/) | 「架构师的成长」全屏 HTML 演示文稿 |
 
 - **CSS 长度单位探索器**：单位演示、对比与对照表，覆盖 px、rem、vw、vmin、lh 等绝对/相对单位，可调基准字号与容器宽度观察差异。
+- **HTML5 拖拽 API 演示**：原生 Drag and Drop API 的三个递进案例——源/目标间基础拖放、`getBoundingClientRect` 实时排序、`DataTransfer.files` 文件读取；右下角固定日志面板实时打印事件流。
 - **演示文稿**：深空主题、视口适配的全屏幻灯片，适合键盘翻页与投屏分享。
 
 ## 维护习惯
